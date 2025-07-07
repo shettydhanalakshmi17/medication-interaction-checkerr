@@ -1,0 +1,5 @@
+drug1,drug2,severity,description
+aspirin,ibuprofen,high,Increased risk of gastrointestinal bleeding
+paracetamol,ibuprofen,moderate,Possible liver damage with prolonged use
+warfarin,aspirin,high,Risk of severe bleeding
+metformin,insulin,moderate,May cause hypoglycemia
